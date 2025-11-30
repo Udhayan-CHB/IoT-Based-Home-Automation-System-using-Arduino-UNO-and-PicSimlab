@@ -78,11 +78,3 @@ All the hardware is simulated, so you can test the full project without any phys
 
 ---
 
-## 🔌 Circuit Diagram
-
-All wiring is done **inside PICSimLab** using its spare-parts board.
-
-> Place your diagram image here in the repo and update the path:
-
-```markdown
-![Circuit Diagram](docs/circuit_diagram.png)
